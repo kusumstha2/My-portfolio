@@ -1,0 +1,65 @@
+[
+  {
+  "name": "File Digitalization",
+  "desc": "A secure OCR-based document system with smart search, encrypted storage, async tasks (Celery), caching (Redis), and role-based access (JWT).",
+  "image": "filedigital",
+  "category": "Django",
+  "links": {
+    
+    "code": "https://github.com/kusumstha2/File-Digitalization"
+  }
+},
+
+ {
+    "name": "Save2Serve (Food Donation System)",
+    "desc": "Full Stack Waste food donation platform with real-time tracking, role-based access, and interactive maps. Used KNN for need prediction and Dijkstra for optimal delivery routing.",
+    "image": "food",
+    "category": "Django",
+    "links": {
+    
+      "code": "https://github.com/kusumstha2/Waste-Food-Donation-"
+    }
+  },
+  {
+    "name": "Multi-Module Store & E-commerce System",
+    "desc": "E-commerce platform with store builder, secure payments (Stripe/PayPal). Used Redis, Celery, Firebase, and JWT for performance, async tasks, alerts, and access control.",
+    "image": "ecommerceweb",
+    "category": "Django",
+    "links": {
+     
+      "code": "https://github.com/kusumstha2/Ecommerce-Platform",
+      "code2"  : "https://github.com/kusumstha2/Ecommerce_temp"
+    }
+  },
+  {
+    "name": "HandiQ : Local Service Finder Platform:",
+    "desc": "Built a Full Stack Django-based web app connecting users to nearby service providers using Dijkstra's Algorithm, with features like booking, payments, reviews, and role-based access.",
+    "image": "handy",
+    "category": "Django",
+    "links": {
+     
+      "code": "https://github.com/kusumstha2/handy-Service-Provider-using-Dijikstra-Algorithm"
+    }
+  },
+  {
+    "name": "Hospital Management System",
+    "desc": "Built with Django and REST Framework, this system streamlines patient management, appointments, medical records, and staff for doctors, nurses, and admins.",
+    "image": "hospital",
+    "category": "Django",
+    "links": {
+      
+      "code": "https://github.com/kusumstha2/Hospital_Management"
+    }
+  },
+  {
+    "name": "Event Promotion",
+    "desc": "Implemented APIs with Djoser authentication, role-based access for approved organizers to create events, and multi-channel event notifications.",
+    "image": "event",
+    "category": "Django",
+    "links": {
+ 
+      "code": "https://github.com/kusumstha2/Event-and-Festival-Promotion"
+    }
+  }
+
+ ]
